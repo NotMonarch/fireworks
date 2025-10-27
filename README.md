@@ -19,19 +19,6 @@ This project is built with:
 
 ## How to Use
 No setup required! Just clone or download this repository and open the fireworks.html file in your favorite web browser.
-# 1. Clone the repository (optional)
-git clone [https://github.com/NotMonarch/fireworks.git](https://github.com/NoMonarch/fireworks.git)
-
-# 2. Navigate to the directory
-cd fireworks
-
-# 3. Open the file
-# On most systems, you can just double-click 'fireworks.html'
-# Or use a command (example for Linux/WSL):
-xdg-open fireworks.html
-# (example for macOS):
-open fireworks.html
-
 
 ## Connect With Me
 Find this project cool? Let's connect!
