@@ -27,6 +27,6 @@ Find this project cool? Let's connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-lyxnine-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lyxnine)
 
-[![X (Twitter)](https://img.shields.io/badge/X-notleywin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notleywin)
+[![X (Twitter)](https://img.shields.io/badge/-notleywin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notleywin)
 
 Feel free to fork, star, or contribute to this project!
