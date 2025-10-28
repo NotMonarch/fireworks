@@ -1,5 +1,4 @@
 ## Fireworks Generator
-Welcome to the Fireworks Generator! This is a simple, lightweight, and beautiful interactive fireworks display built with pure HTML, CSS, and JavaScript using the HTML Canvas.
 Click to launch your own fireworks or just sit back and enjoy the show!
 
 ## Features
